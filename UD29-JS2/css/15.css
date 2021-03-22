@@ -1,0 +1,36 @@
+body{
+    background: rgb(188, 223, 221);
+}
+.contenedor1{
+    display: flex;
+    width: 100%;
+    height: auto;
+    border: none;
+    margin: 31px 0px 20px 0px;
+}
+
+.contenedor2{
+    display: grid;
+    width: 100%;
+    height: auto;
+    border: none;
+    margin: 31px 0px 20px 0px;
+    text-align: center;
+
+}
+
+.visor{
+    width: 400px;
+    height: 300px;
+}
+
+img{
+    text-align: center;
+    float: left;
+    margin: auto;        
+    border: 1px solid;
+    width: 300px;
+    height: 250px;
+}
+
+
